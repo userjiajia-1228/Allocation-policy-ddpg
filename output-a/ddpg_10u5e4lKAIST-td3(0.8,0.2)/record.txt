@@ -1,0 +1,61 @@
+time(s):3000
+
+代码运行的时间:4932.503034114838
+
+user_number:10
+
+edge_number:5
+
+limit:4
+
+task information:
+req_u2e_size:270000
+process_loading:1080000
+req_e2u_size:96
+
+Episode:  0 Reward:  2945###  r_var: 3.00 b_var: 3.00 
+Episode:  1 Reward:  3592###  r_var: 3.00 b_var: 3.00 
+Episode:  2 Reward:  3593###  r_var: 3.00 b_var: 3.00 
+Episode:  3 Reward:  3721###  r_var: 3.00 b_var: 3.00 
+Episode:  4 Reward:  4524###  r_var: 3.00 b_var: 3.00 
+Episode:  5 Reward:  4980###  r_var: 2.91 b_var: 2.91 
+Episode:  6 Reward:  5007###  r_var: 2.83 b_var: 2.83 
+Episode:  7 Reward:  5007###  r_var: 2.74 b_var: 2.74 
+Episode:  8 Reward:  5220###  r_var: 2.66 b_var: 2.66 
+Episode:  9 Reward:  5220###  r_var: 2.58 b_var: 2.58 
+Episode: 10 Reward:  5220###  r_var: 2.51 b_var: 2.51 
+Episode: 11 Reward:  5220###  r_var: 2.43 b_var: 2.43 
+Episode: 12 Reward:  5367###  r_var: 2.36 b_var: 2.36 
+Episode: 13 Reward:  5367###  r_var: 2.29 b_var: 2.29 
+Episode: 14 Reward:  5367###  r_var: 2.22 b_var: 2.22 
+Episode: 15 Reward:  5390###  r_var: 2.16 b_var: 2.16 
+Episode: 16 Reward:  5390###  r_var: 2.09 b_var: 2.09 
+Episode: 17 Reward:  5496###  r_var: 2.03 b_var: 2.03 
+Episode: 18 Reward:  5496###  r_var: 1.97 b_var: 1.97 
+Episode: 19 Reward:  5496###  r_var: 1.91 b_var: 1.91 
+Episode: 20 Reward:  5518###  r_var: 1.86 b_var: 1.86 
+Episode: 21 Reward:  5518###  r_var: 1.80 b_var: 1.80 
+Episode: 22 Reward:  5518###  r_var: 1.75 b_var: 1.75 
+Episode: 23 Reward:  5518###  r_var: 1.70 b_var: 1.70 
+Episode: 24 Reward:  5518###  r_var: 1.65 b_var: 1.65 
+Episode: 25 Reward:  5518###  r_var: 1.60 b_var: 1.60 
+Episode: 26 Reward:  5518###  r_var: 1.55 b_var: 1.55 
+Episode: 27 Reward:  5518###  r_var: 1.50 b_var: 1.50 
+Episode: 28 Reward:  5540###  r_var: 1.46 b_var: 1.46 
+Episode: 29 Reward:  5540###  r_var: 1.42 b_var: 1.42 
+Episode: 30 Reward:  5540###  r_var: 1.38 b_var: 1.38 
+Episode: 31 Reward:  5540###  r_var: 1.33 b_var: 1.33 
+Episode: 32 Reward:  5540###  r_var: 1.30 b_var: 1.30 
+Episode: 33 Reward:  5540###  r_var: 1.26 b_var: 1.26 
+Episode: 34 Reward:  5540###  r_var: 1.22 b_var: 1.22 
+Episode: 35 Reward:  5540###  r_var: 1.18 b_var: 1.18 
+Episode: 36 Reward:  5540###  r_var: 1.15 b_var: 1.15 
+Episode: 37 Reward:  5540###  r_var: 1.11 b_var: 1.11 
+Episode: 38 Reward:  5575###  r_var: 1.08 b_var: 1.08 
+Episode: 39 Reward:  5575###  r_var: 1.05 b_var: 1.05 
+the mean of the rewards:5208.393099179606
+
+the standard deviation of the rewards:626.1949522928975
+
+the range of the rewards:2630.4700980590164
+

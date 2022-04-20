@@ -1,0 +1,46 @@
+time(s):3500
+
+代码运行的时间:2455.6388897895813
+
+user_number:10
+
+edge_number:10
+
+limit:4
+
+task information:
+req_u2e_size:270000
+process_loading:1080000
+req_e2u_size:96
+
+Episode:  0 Reward:  2860###  r_var: 3.00 b_var: 3.00 
+Episode:  1 Reward:  3968###  r_var: 3.00 b_var: 3.00 
+Episode:  2 Reward:  4154###  r_var: 3.00 b_var: 3.00 
+Episode:  3 Reward:  4376###  r_var: 3.00 b_var: 3.00 
+Episode:  4 Reward:  4376###  r_var: 3.00 b_var: 3.00 
+Episode:  5 Reward:  4376###  r_var: 2.90 b_var: 2.90 
+Episode:  6 Reward:  5028###  r_var: 2.80 b_var: 2.80 
+Episode:  7 Reward:  5171###  r_var: 2.70 b_var: 2.70 
+Episode:  8 Reward:  5171###  r_var: 2.61 b_var: 2.61 
+Episode:  9 Reward:  5171###  r_var: 2.52 b_var: 2.52 
+Episode: 10 Reward:  5611###  r_var: 2.43 b_var: 2.43 
+Episode: 11 Reward:  5611###  r_var: 2.35 b_var: 2.35 
+Episode: 12 Reward:  5611###  r_var: 2.27 b_var: 2.27 
+Episode: 13 Reward:  5611###  r_var: 2.19 b_var: 2.19 
+Episode: 14 Reward:  5748###  r_var: 2.11 b_var: 2.11 
+Episode: 15 Reward:  5748###  r_var: 2.04 b_var: 2.04 
+Episode: 16 Reward:  5748###  r_var: 1.97 b_var: 1.97 
+Episode: 17 Reward:  5748###  r_var: 1.90 b_var: 1.90 
+Episode: 18 Reward:  5774###  r_var: 1.84 b_var: 1.84 
+Episode: 19 Reward:  5774###  r_var: 1.77 b_var: 1.77 
+Episode: 20 Reward:  5774###  r_var: 1.71 b_var: 1.71 
+Episode: 21 Reward:  5774###  r_var: 1.65 b_var: 1.65 
+Episode: 22 Reward:  5861###  r_var: 1.60 b_var: 1.60 
+Episode: 23 Reward:  5861###  r_var: 1.54 b_var: 1.54 
+Episode: 24 Reward:  5861###  r_var: 1.49 b_var: 1.49 
+the mean of the rewards:5231.237995586384
+
+the standard deviation of the rewards:765.2712094075572
+
+the range of the rewards:3000.5990457594985
+
